@@ -13,7 +13,7 @@
   <description>Component for HBase as a Storm Bolt</description>
 
   <properties>
-    <storm.version>0.9.0-wip21</storm.version>
+    <storm.version>0.9.0-wip21-ics</storm.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <hadoop.version>0.20.2-cdh3u2 </hadoop.version>
     <hbase.version>0.90.4-cdh3u2 </hbase.version>
